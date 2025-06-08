@@ -75,3 +75,28 @@ This Power BI project analyzes survey data collected from students across variou
 ├── UserMapping.xlsx                     # Mapping table for RLS
 └── README.md                            # This file
 
+🧠 Insights Derived
+Suburban stores saw the highest total purchases overall.
+
+Ages 12 to 16 showed high interest in Outdoor and Video Games.
+
+Clear purchase pattern variance across Store Settings.
+
+Row-level filtering enforces data security per user role.
+
+👤 Author
+Vishal Kute
+
+Data Analyst | AI Consultant | Tech Presales
+
+📧 vishalnkute@gmail.com
+
+🌐 https://github.com/Vishalkute1
+
+💼 www.linkedin.com/in/vishalkute1
+
+🚀 Live Dashboard & Report
+
+🔗 Click here to view published Power BI report
+
+(https://app.powerbi.com/groups/4a45d55f-f463-4d9e-b38e-80a8aa8f782a/list?experience=power-bi)
